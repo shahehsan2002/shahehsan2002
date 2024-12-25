@@ -87,6 +87,9 @@ Hi, I’m **Ehsan**! 👨‍💻 A passionate **Full-Stack Developer** and **asp
   <img src="https://github.com/shahehsan2002/shahehsan2002/blob/output/github-contribution-snake.svg" alt="GitHub Snake Game" />
 </div>
 
+![Snake Game](https://github.com/shahehsan2002/shahehsan2002/blob/output/github-contribution-snake.svg)
+
+
 ---
 
 ## 🎉 **Visitor Count**  
