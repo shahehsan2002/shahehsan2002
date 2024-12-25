@@ -54,7 +54,7 @@ Hi, I’m **Ehsan**! 👨‍💻 A passionate **Full-Stack Developer** and **asp
 
 ---
 
-## 🎯 **Goals for 2025**  
+## 🎯 **Goals for 2024**  
 
 - 🚀 **Build** 5 full-stack projects with outstanding UI/UX.  
 - 🌍 **Launch** my startup idea.  
