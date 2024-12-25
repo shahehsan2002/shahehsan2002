@@ -11,6 +11,15 @@ Hi there! 👋
 I’m **Ehsan**, a creative **Full-Stack Web Developer** with a knack for building **interactive, user-friendly, and animated** digital experiences. My passion lies in combining technology with innovation to solve real-world problems. 🚀  
 
 💡 Currently exploring advanced **React animations**, **UI/UX design trends**, and **entrepreneurial ventures**.  
+🎯 Focused on delivering **scalable solutions** and **exceptional user experiences**.  
+
+---
+
+## 🎯 **Goals for 2024**  
+- 🔥 Build **3 unique full-stack projects**.  
+- 🌍 Launch my **entrepreneurial venture**.  
+- 🚀 Master **microservices** and **cloud deployments**.  
+- 🌟 Contribute to **open-source projects**.  
 
 ---
 
@@ -32,6 +41,7 @@ I’m **Ehsan**, a creative **Full-Stack Web Developer** with a knack for buildi
   <a href="https://instagram.com/s_a_ehsan"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
   <a href="https://linkedin.com/in/shah-ehsan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="https://tiktok.com/@shahehsan69"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" /></a>  
+  <a href="mailto:shahehsan@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 </div>
 
 ---
@@ -39,12 +49,12 @@ I’m **Ehsan**, a creative **Full-Stack Web Developer** with a knack for buildi
 ## 💻 **Tech Stack**  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,mongodb,express,figma,docker,git" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,mongodb,express,figma,docker,git,redux,postman,graphql,vscode" alt="Tech Stack Icons" />
 </div>  
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📈 **GitHub Stats**  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahehsan2002&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%" />
@@ -61,18 +71,22 @@ I’m **Ehsan**, a creative **Full-Stack Web Developer** with a knack for buildi
 
 ---
 
-## ✍️ **Developer Quote**  
-
+## 🌟 **Featured Repositories**  
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <a href="https://github.com/shahehsan2002/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahehsan2002&repo=project-1&theme=radical" alt="Project 1" />
+  </a>
+  <a href="https://github.com/shahehsan2002/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahehsan2002&repo=project-2&theme=radical" alt="Project 2" />
+  </a>
 </div>
 
 ---
 
-## 🔝 **Top Projects**  
+## ✍️ **Developer Quote**  
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=shahehsan2002&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Projects" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
 
 ---
@@ -82,6 +96,13 @@ I’m **Ehsan**, a creative **Full-Stack Web Developer** with a knack for buildi
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated GIF" width="300px" />
 </div>
+
+---
+
+## 💬 **Fun Facts About Me**  
+- 🌌 I love **stargazing** and exploring the universe through code!  
+- 🎮 A **gamer** who enjoys playing strategy and adventure games.  
+- 🍕 A huge fan of **pizza**, because who isn’t?  
 
 ---
 
