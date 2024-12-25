@@ -81,21 +81,16 @@ Hi, I’m **Ehsan**! 👨‍💻 A passionate **Full-Stack Developer** and **asp
 
 ---
 
-## 🎨 **Interactive Widgets**  
+## 🎨 **Contribution Snake Game**
 
-- **🌟 Visitor Count:** ![Visitor Count](https://visitcount.itsvg.in/api?id=shahehsan2002&label=Profile%20Views&color=1&icon=2&pretty=true)  
-- **⌨️ Typing Practice:** [**Click Here to Try Out**](https://typingclub.com/)  
-- **🎮 Play a Game:** [**Snake Game on My Profile!**](https://github.com/shahehsan2002)  
+<div align="center">
+  <img src="https://github.com/shahehsan2002/shahehsan2002/blob/output/github-contribution-snake.svg" alt="GitHub Snake Game" />
+</div>
 
 ---
 
-## ✍️ **What Keeps Me Going?**  
-
-> "The only limit to our realization of tomorrow is our doubts of today." – **Franklin D. Roosevelt**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Motivational GIF" width="300px" />
-</div>
+## 🎉 **Visitor Count**  
+![Visitor Count](https://visitcount.itsvg.in/api?id=shahehsan2002&label=Profile%20Views&color=1&icon=2&pretty=true)
 
 ---
 
