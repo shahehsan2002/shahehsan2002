@@ -1,10 +1,10 @@
 # 🌟 **Welcome to My Universe!**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Ehsan+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Coding+to+Make+a+Difference+%F0%9F%8C%8D;Always+Innovating+%F0%9F%9A%80" alt="Typing SVG" />
-</div>  
+  <img src="https://media.giphy.com/media/8kUjXqS5f8Vw1gsNk8/giphy.gif" alt="Typing Animation" width="600px" />
+</div>
 
----
+--- 
 
 ## 🎉 **About Me**  
 
@@ -58,6 +58,7 @@ Hi, I’m **Ehsan**! 👨‍💻 A passionate **Full-Stack Developer** and **asp
 
 - 🚀 **Build** 5 full-stack projects with outstanding UI/UX.  
 - 🌍 **Launch** my startup idea.  
+- 🎓 **Master** DevOps and microservices architecture.  
 - 🛠️ **Contribute** to open-source to give back to the community.  
 
 ---
@@ -80,7 +81,7 @@ Hi, I’m **Ehsan**! 👨‍💻 A passionate **Full-Stack Developer** and **asp
 
 ---
 
-## 🎨 **Contribution Snake Game**
+## 🎨 **Contribution Snake Game**  
 
 <div align="center">
   <img src="https://github.com/shahehsan2002/shahehsan2002/blob/output/github-contribution-snake.svg" alt="GitHub Snake Game" />
@@ -93,3 +94,4 @@ Hi, I’m **Ehsan**! 👨‍💻 A passionate **Full-Stack Developer** and **asp
 
 ---
 
+### 💡 Pro Tip: This README is a live reflection of my journey. Keep watching it grow! 🚀
