@@ -1,72 +1,95 @@
-# 💫 Hi there! 👋
-I'm **Ehsan**, a passionate **Full-Stack Web Developer** and **aspiring Entrepreneur**. 🚀
+# 🌟 **Welcome to My Universe!**
 
-I specialize in building **responsive**, **user-friendly**, and **dynamic web applications** using modern tools and technologies. My journey in software development is driven by curiosity, creativity, and a love for solving real-world problems through code. 
-
-## 🌟 What I Do:
-- **Front-End Development**: Crafting stunning interfaces using **React**, **Tailwind CSS**, and **TypeScript**.
-- **Back-End Development**: Creating robust APIs and server-side solutions with **Node.js**, **Express**, and **MongoDB**.
-- **Database Management**: Designing scalable schemas with **Mongoose** and optimizing data flow.
-- **E-Commerce Solutions**: Building feature-rich platforms with advanced functionalities like payment gateways and cart systems.
-- **Entrepreneurial Projects**: Working towards launching ventures like a fitness e-commerce site and a poultry farming business.
-
-## 🌱 Currently Learning:
-- Advanced **React Animations** and **UI Enhancements**.
-- Exploring **AI/ML integration** in web apps.
-- Expanding my **entrepreneurial skills**.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Ehsan+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Coding+to+Make+a+Difference+%F0%9F%8C%8D;Always+Innovating+%F0%9F%9A%80" alt="Typing SVG" />
+</div>  
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_a_ehsan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-ehsan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shahehsan69)
+## 🎉 **About Me**  
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Hi, I’m **Ehsan**! 👨‍💻 A passionate **Full-Stack Developer** and **aspiring entrepreneur** who loves creating captivating and functional digital experiences. Whether it's crafting interactive UI designs or building robust backend systems, I aim to leave a mark in the tech world! 🌍
 
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahehsan2002&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shahehsan2002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahehsan2002&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🎨 **Why I Code:** To bring **ideas to life** through technology and design.  
+🎯 **Mission:** Create impactful solutions with a perfect blend of aesthetics and functionality.  
+💡 **Fun Fact:** Coding feels like magic, and I'm the wizard! 🪄  
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=shahehsan2002&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## 🚀 **Skillset and Tools**  
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,nodejs,express,mongodb,tailwind,git,figma,docker,graphql" alt="Tech Stack Icons" />
+</div>  
 
 ---
 
-## 🎮 Contribution Snake:
-### 🐍 Watch the progress as you scroll! 🐍
-<br>
-![Contribution Snake](https://github.com/shahehsan2002/shahehsan2002/blob/output/github-contribution-snake.svg)
+## 💻 **What I Do Best**  
 
-<details>
-<summary><b>More Info</b></summary>
-<p>This snake visualizes my contribution graph. The snake’s length will increase as I contribute more to my repositories. Let's grow this snake with every contribution I make!</p>
-</details>
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="300px" />
+</div>
 
----
-
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+- **Frontend Mastery:** React, Tailwind CSS, Animation, Responsiveness.  
+- **Backend Wizardry:** Node.js, Express, Mongoose, MongoDB.  
+- **Full-Stack Magic:** Bringing ideas to life from concept to deployment!  
+- **E-Commerce Expertise:** Building seamless and secure online shopping experiences.  
 
 ---
 
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=shahehsan2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌟 **GitHub Showcase**  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahehsan2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahehsan2002&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
+</div>  
 
 ---
 
-## 🧑‍💻 Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/shahehsan2002/count.svg)
+## 🏆 **My Achievements**  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahehsan2002&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</div>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 **Goals for 2025**  
+
+- 🚀 **Build** 5 full-stack projects with outstanding UI/UX.  
+- 🌍 **Launch** my startup idea.  
+- 🛠️ **Contribute** to open-source to give back to the community.  
 
 ---
 
-### 💫 Let’s Connect:
-Feel free to reach out if you have any questions, collaboration ideas, or want to chat about web development! Let's build something amazing together! 🌟
+## 🎨 **Developer Quote**  
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
+</div>
+
+---
+
+## 🌐 **Find Me Here**  
+
+<div align="center">
+  <a href="https://linkedin.com/in/shah-ehsan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://instagram.com/s_a_ehsan"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+  <a href="mailto:shahehsan@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
+</div>
+
+---
+
+## 🎨 **Contribution Snake Game**
+
+<div align="center">
+  <img src="https://github.com/shahehsan2002/shahehsan2002/blob/output/github-contribution-snake.svg" alt="GitHub Snake Game" />
+</div>
+
+---
+
+## 🎉 **Visitor Count**  
+![Visitor Count](https://visitcount.itsvg.in/api?id=shahehsan2002&label=Profile%20Views&color=1&icon=2&pretty=true)
+
+---
+
