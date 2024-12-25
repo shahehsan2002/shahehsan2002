@@ -5,16 +5,36 @@
     <!-- PC Screen Frame -->
     <rect x="10" y="10" width="580" height="330" fill="#212121" stroke="#000" stroke-width="4" />
     <rect x="30" y="30" width="540" height="270" fill="#FFF" />
-    
+
     <!-- Screen Content (Text animation) -->
     <foreignObject x="40" y="40" width="520" height="250">
       <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Arial'; font-size: 18px; color: #333;">
-        <h1 style="font-size: 24px; color: #F75C7E;">Hey There! I'm Ehsan 👋</h1>
-        <p><strong>Full-Stack Web Developer 💻</strong></p>
-        <p>Creating amazing digital experiences with code 🚀</p>
-        <p>Always innovating and learning 🔥</p>
+        <!-- Animated Heading -->
+        <h1 style="font-size: 32px; font-weight: bold; color: #F75C7E; animation: fadeIn 2s ease-in-out; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+          Hey There! I'm Ehsan 👋
+        </h1>
+
+        <!-- Typewriter Animation -->
+        <p style="font-size: 20px; color: #555; animation: typeWriter 4s steps(30) 1s forwards;">
+          <strong>Full-Stack Web Developer 💻</strong>
+        </p>
+        
+        <p style="font-size: 18px; color: #333; animation: fadeIn 3s ease-in-out;">
+          Creating amazing digital experiences with code 🚀
+        </p>
+
+        <!-- Hover Effect Text -->
+        <p style="font-size: 18px; color: #333; transition: transform 0.3s ease; text-decoration: underline;">
+          Always innovating and learning 🔥
+        </p>
       </div>
     </foreignObject>
+
+    <!-- Animated Background (SVG) -->
+    <circle cx="150" cy="60" r="50" fill="none" stroke="#F75C7E" stroke-width="2" stroke-dasharray="314" stroke-dashoffset="314">
+      <animate attributeName="stroke-dashoffset" from="314" to="0" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
   </svg>
 </div>
 
@@ -107,6 +127,4 @@ Hi, I’m **Ehsan**! 👨‍💻 A passionate **Full-Stack Developer** and **asp
 ![Visitor Count](https://visitcount.itsvg.in/api?id=shahehsan2002&label=Profile%20Views&color=1&icon=2&pretty=true)
 
 ---
-
-### 💡 Pro Tip: This README is a live reflection of my journey. Keep watching it grow! 🚀
 
