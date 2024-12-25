@@ -1,10 +1,24 @@
 # 🌟 **Welcome to My Universe!**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/8kUjXqS5f8Vw1gsNk8/giphy.gif" alt="Typing Animation" width="600px" />
+  <svg width="600" height="350" xmlns="http://www.w3.org/2000/svg">
+    <!-- PC Screen Frame -->
+    <rect x="10" y="10" width="580" height="330" fill="#212121" stroke="#000" stroke-width="4" />
+    <rect x="30" y="30" width="540" height="270" fill="#FFF" />
+    
+    <!-- Screen Content (Text animation) -->
+    <foreignObject x="40" y="40" width="520" height="250">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Arial'; font-size: 18px; color: #333;">
+        <h1 style="font-size: 24px; color: #F75C7E;">Hey There! I'm Ehsan 👋</h1>
+        <p><strong>Full-Stack Web Developer 💻</strong></p>
+        <p>Creating amazing digital experiences with code 🚀</p>
+        <p>Always innovating and learning 🔥</p>
+      </div>
+    </foreignObject>
+  </svg>
 </div>
 
---- 
+---
 
 ## 🎉 **About Me**  
 
@@ -95,3 +109,4 @@ Hi, I’m **Ehsan**! 👨‍💻 A passionate **Full-Stack Developer** and **asp
 ---
 
 ### 💡 Pro Tip: This README is a live reflection of my journey. Keep watching it grow! 🚀
+
