@@ -1,185 +1,73 @@
-# 🚀 **Welcome to My Creative Universe!** 🌟
+# 💫 Hi there! 👋
+I'm **Ehsan**, a passionate **Full-Stack Web Developer** and **aspiring Entrepreneur**. 🚀
 
-<div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="350">
-  <!-- PC Screen -->
-  <rect x="10" y="10" width="580" height="330" fill="#212121" stroke="#000" stroke-width="4" />
-  <rect x="30" y="30" width="540" height="270" fill="#FFF" />
+I specialize in building **responsive**, **user-friendly**, and **dynamic web applications** using modern tools and technologies. My journey in software development is driven by curiosity, creativity, and a love for solving real-world problems through code. 
 
-  <!-- Animated Text Content -->
-  <foreignObject x="40" y="40" width="520" height="250">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333; text-align: center;">
+## 🌟 What I Do:
+- **Front-End Development**: Crafting stunning interfaces using **React**, **Tailwind CSS**, and **TypeScript**.
+- **Back-End Development**: Creating robust APIs and server-side solutions with **Node.js**, **Express**, and **MongoDB**.
+- **Database Management**: Designing scalable schemas with **Mongoose** and optimizing data flow.
+- **E-Commerce Solutions**: Building feature-rich platforms with advanced functionalities like payment gateways and cart systems.
+- **Entrepreneurial Projects**: Working towards launching ventures like a fitness e-commerce site and a poultry farming business.
 
-      <!-- Animated Typing Effect using SVG -->
-      <svg width="100%" height="100%">
-        <text id="typeText" x="50%" y="20%" text-anchor="middle" font-family="Arial" font-size="24" fill="#F75C7E">
-          Hey There! I'm Ehsan 👋
-        </text>
-
-        <!-- Typewriter Effect -->
-        <animate
-          attributeName="stroke-dashoffset"
-          from="1000"
-          to="0"
-          dur="4s"
-          keyTimes="0;1"
-          begin="0s"
-          repeatCount="indefinite"
-          fill="freeze"
-          id="typing-effect" />
-
-        <!-- Animated Full-Stack Developer Text -->
-        <text id="professionText" x="50%" y="35%" text-anchor="middle" font-family="Arial" font-size="22" fill="#333" opacity="0">
-          <tspan id="profession">Full-Stack Web Developer 💻</tspan>
-        </text>
-        
-        <!-- Fade-in Effect for "Full-Stack Web Developer" -->
-        <animate
-          xlink:href="#profession"
-          attributeName="opacity"
-          from="0"
-          to="1"
-          dur="2s"
-          begin="4s"
-          fill="freeze" />
-
-        <!-- Innovating Text Animation -->
-        <text id="innovativeText" x="50%" y="50%" text-anchor="middle" font-family="Arial" font-size="20" fill="#444" opacity="0">
-          Crafting innovative digital experiences 🚀
-        </text>
-        
-        <!-- Fade-in Effect for "Crafting innovative digital experiences" -->
-        <animate
-          xlink:href="#innovativeText"
-          attributeName="opacity"
-          from="0"
-          to="1"
-          dur="2s"
-          begin="6s"
-          fill="freeze" />
-
-        <!-- Continuous Learning Text -->
-        <text id="learningText" x="50%" y="65%" text-anchor="middle" font-family="Arial" font-size="20" fill="#444" opacity="0">
-          Always learning, always growing! 🔥
-        </text>
-
-        <!-- Fade-in Effect for "Always learning, always growing" -->
-        <animate
-          xlink:href="#learningText"
-          attributeName="opacity"
-          from="0"
-          to="1"
-          dur="2s"
-          begin="8s"
-          fill="freeze" />
-      </svg>
-    </div>
-  </foreignObject>
-
-  <!-- Animated Background Effects (Dynamic and Fun) -->
-  <circle cx="200" cy="80" r="50" fill="none" stroke="#F75C7E" stroke-width="2" stroke-dasharray="314" stroke-dashoffset="314">
-    <animate attributeName="stroke-dashoffset" from="314" to="0" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Moving Rectangle -->
-  <rect x="100" y="50" width="100" height="100" fill="none" stroke="#33B5FF" stroke-width="2">
-    <animate attributeName="x" from="100" to="500" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="y" from="50" to="250" dur="6s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-
-</div>
+## 🌱 Currently Learning:
+- Advanced **React Animations** and **UI Enhancements**.
+- Exploring **AI/ML integration** in web apps.
+- Expanding my **entrepreneurial skills**.
 
 ---
 
-## 💡 **Who Am I?**  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_a_ehsan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-ehsan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shahehsan69)
 
-Hey! I’m **Ehsan**, a passionate **Full-Stack Developer** and **creative technologist** who is always pushing boundaries with **code** and **design**! I craft **beautiful web applications**, constantly learning and improving to shape the future of tech.  
-
-🔥 **Vision:** To build projects that are not just functional but **aesthetic**, **interactive**, and **innovative**.
-
----
-
-## ⚡ **What I Build** 
-
-- **Interactive Frontend**: Beautiful UI with **React**, **Tailwind CSS**, and **smooth animations**.  
-- **Powerful Backend**: Scalable systems built with **Node.js**, **Express**, and **MongoDB**.  
-- **Full-Stack Web Apps**: Bringing all the pieces together with seamless integration.  
-- **E-Commerce Solutions**: Crafting fully responsive and secure online stores.  
-- **Animations**: Adding **CSS animations**, **SVG animations**, and **interactive elements** that engage users.
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## 🛠 **Tech Stack**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,nodejs,express,mongodb,tailwind,git,figma,docker" alt="Tech Stack" width="70%" />
-</div>
-
----
-
-## 🚀 **My Work in Action**  
-
-Here’s a taste of my **GitHub activity**:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahehsan2002&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahehsan2002&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
-</div>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shahehsan2002&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shahehsan2002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahehsan2002&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-## 🏆 **Achievements**  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahehsan2002&theme=radical&no-frame=true" alt="Trophies" width="70%" />
-</div>
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=shahehsan2002&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
-## 🌱 **What’s Next?**  
+## 🎮 Contribution Snake:
+### 🐍 Watch the progress as you scroll! 🐍
+<br>
+![Contribution Snake](https://github.com/shahehsan2002/shahehsan2002/blob/output/github-contribution-snake.svg)
 
-I’m currently working on:
-
-- 🚀 Building an **e-commerce platform** from scratch.  
-- 🎯 Enhancing my knowledge of **cloud computing** and **DevOps**.  
-- 🎓 Learning **machine learning** and **AI** to integrate intelligent systems into my apps.
-
----
-
-## 🌐 **Connect with Me**  
-
-<div align="center">
-  <a href="https://linkedin.com/in/shah-ehsan" style="margin: 10px;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/s_a_ehsan" style="margin: 10px;"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:shahehsan@example.com" style="margin: 10px;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+<details>
+<summary><b>More Info</b></summary>
+<p>This snake visualizes my contribution graph. The snake’s length will increase as I contribute more to my repositories. Let's grow this snake with every contribution I make!</p>
+</details>
 
 ---
 
-## 🌟 **Favorite Quote**  
-
-“**The best way to predict the future is to create it.**” – **Abraham Lincoln**  
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" width="70%" />
-</div>
+## ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 
-## 🎉 **Contribution Snake**  
-
-<div align="center">
-  <img src="https://github.com/shahehsan2002/shahehsan2002/blob/output/github-contribution-snake.svg" alt="GitHub Snake" width="50%" />
-</div>
+## 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=shahehsan2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 💥 **Animated Backgrounds**  
+## 🧑‍💻 Visitor Count:
+![Visitor Count](https://profile-counter.glitch.me/shahehsan2002/count.svg)
 
-<!-- Animated Background SVG -->
-<div style="background: linear-gradient(135deg, #F75C7E, #33B5FF); height: 100vh; animation: gradientAnimation 6s ease-in-out infinite;">
-  <!-- Add additional SVG, animations, or particles here -->
-</div>
+---
 
-### **Pro Tip:** Keep evolving and enjoy the ride! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+### 💫 Let’s Connect:
+Feel free to reach out if you have any questions, collaboration ideas, or want to chat about web development! Let's build something amazing together! 🌟
+
