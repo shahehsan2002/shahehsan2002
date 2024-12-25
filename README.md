@@ -57,7 +57,7 @@
 
 ---
 
-<h2 align="center">🎯 Goals for 2024</h2>
+<h2 align="center">🎯 Goals for 2025</h2>
 <div align="center" style="font-size: 1.1rem;">
   <ul style="list-style: none;">
     <li>🚀 <strong>Build</strong> 5 full-stack projects with outstanding UI/UX.</li>
@@ -73,7 +73,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/shah-ehsan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/s_a_ehsan"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:shahehsan@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shahehsan2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
