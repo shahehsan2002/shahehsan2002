@@ -1,34 +1,85 @@
 # 🚀 **Welcome to My Creative Universe!** 🌟
 
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="350">
-    <!-- Animated PC Screen -->
-    <rect x="10" y="10" width="580" height="330" fill="#212121" stroke="#000" stroke-width="4" />
-    <rect x="30" y="30" width="540" height="270" fill="#FFF" />
-    <!-- Animated Screen Content -->
-    <foreignObject x="40" y="40" width="520" height="250">
-      <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333; text-align: center;">
-        <h1 style="font-size: 32px; font-weight: bold; color: #F75C7E; animation: textFadeIn 2s ease-in-out;">Hey There! I'm Ehsan 👋</h1>
+ <svg xmlns="http://www.w3.org/2000/svg" width="600" height="350">
+  <!-- PC Screen -->
+  <rect x="10" y="10" width="580" height="330" fill="#212121" stroke="#000" stroke-width="4" />
+  <rect x="30" y="30" width="540" height="270" fill="#FFF" />
+
+  <!-- Animated Text Content -->
+  <foreignObject x="40" y="40" width="520" height="250">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #333; text-align: center;">
+
+      <!-- Animated Typing Effect using SVG and Keyframes -->
+      <svg width="100%" height="100%">
+        <text id="typeText" x="50%" y="20%" text-anchor="middle" font-family="Arial" font-size="24" fill="#F75C7E">
+          Hey There! I'm Ehsan 👋
+        </text>
+
+        <animate
+          attributeName="stroke-dashoffset"
+          from="1000"
+          to="0"
+          dur="3s"
+          keyTimes="0;1"
+          begin="0s"
+          repeatCount="indefinite"
+          fill="freeze"
+          id="typing-effect" />
+
+        <text id="professionText" x="50%" y="35%" text-anchor="middle" font-family="Arial" font-size="22" fill="#333" opacity="0">
+          <tspan id="profession" >Full-Stack Web Developer 💻</tspan>
+        </text>
         
-        <!-- Typewriter Animation for text -->
-        <p id="typewriter" style="font-size: 20px; color: #333; animation: typewriterEffect 3s steps(30) 1s forwards; white-space: nowrap; overflow: hidden;">
-          <strong>Full-Stack Web Developer 💻</strong>
-        </p>
+        <animate
+          xlink:href="#profession"
+          attributeName="opacity"
+          from="0"
+          to="1"
+          dur="2s"
+          begin="3s"
+          fill="freeze" />
+
+        <text id="innovativeText" x="50%" y="50%" text-anchor="middle" font-family="Arial" font-size="20" fill="#444" opacity="0">
+          Crafting innovative digital experiences 🚀
+        </text>
         
-        <p style="font-size: 18px; color: #444; animation: fadeInText 2s ease-in-out 1.5s;">Crafting innovative digital experiences 🚀</p>
-        <p style="font-size: 18px; color: #444; animation: fadeInText 2s ease-in-out 2s;">Always learning, always growing! 🔥</p>
-      </div>
-    </foreignObject>
-    
-    <!-- Background Animations -->
-    <circle cx="200" cy="80" r="50" fill="none" stroke="#F75C7E" stroke-width="2" stroke-dasharray="314" stroke-dashoffset="314">
-      <animate attributeName="stroke-dashoffset" from="314" to="0" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <rect x="100" y="50" width="100" height="100" fill="none" stroke="#33B5FF" stroke-width="2">
-      <animate attributeName="x" from="100" to="500" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="y" from="50" to="250" dur="6s" repeatCount="indefinite"/>
-    </rect>
-  </svg>
+        <animate
+          xlink:href="#innovativeText"
+          attributeName="opacity"
+          from="0"
+          to="1"
+          dur="2s"
+          begin="5s"
+          fill="freeze" />
+        
+        <text id="learningText" x="50%" y="65%" text-anchor="middle" font-family="Arial" font-size="20" fill="#444" opacity="0">
+          Always learning, always growing! 🔥
+        </text>
+
+        <animate
+          xlink:href="#learningText"
+          attributeName="opacity"
+          from="0"
+          to="1"
+          dur="2s"
+          begin="7s"
+          fill="freeze" />
+      </svg>
+    </div>
+  </foreignObject>
+
+  <!-- Background Animations -->
+  <circle cx="200" cy="80" r="50" fill="none" stroke="#F75C7E" stroke-width="2" stroke-dasharray="314" stroke-dashoffset="314">
+    <animate attributeName="stroke-dashoffset" from="314" to="0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <rect x="100" y="50" width="100" height="100" fill="none" stroke="#33B5FF" stroke-width="2">
+    <animate attributeName="x" from="100" to="500" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="y" from="50" to="250" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+
 </div>
 
 ---
