@@ -87,4 +87,11 @@
 
 ---
 
+<div align="center">
+  <!-- Snake animation -->
+  ![Snake animation](https://github.com/shahehsan2002/shahehsan2002/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+---
+
 <h3 align="center">💡 Pro Tip: This README is a live reflection of my journey. Keep watching it grow! 🚀</h3>
