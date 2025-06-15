@@ -16,6 +16,8 @@
             --accent: #00d9ff;
             --gradient: linear-gradient(135deg, #F75C7E, #9C27B0, #673AB7);
             --card-bg: rgba(25, 20, 60, 0.7);
+            --github-purple: #6e40c9;
+            --github-green: #39d353;
         }
         
         * {
@@ -354,6 +356,185 @@
             color: var(--accent);
         }
         
+        /* GitHub Showcase Section */
+        .github-showcase {
+            background: rgba(25, 20, 60, 0.9);
+            border: 1px solid rgba(110, 64, 201, 0.4);
+        }
+        
+        .github-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid rgba(247, 92, 126, 0.3);
+        }
+        
+        .github-title {
+            font-size: 2.2rem;
+            color: var(--accent);
+            font-family: 'Orbitron', sans-serif;
+        }
+        
+        .github-subtitle {
+            font-size: 1.1rem;
+            opacity: 0.8;
+        }
+        
+        .github-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .github-stat-card {
+            background: rgba(40, 30, 80, 0.7);
+            border-radius: 15px;
+            padding: 20px;
+            border: 1px solid rgba(110, 64, 201, 0.3);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .github-stat-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--github-purple);
+            box-shadow: 0 8px 20px rgba(110, 64, 201, 0.3);
+        }
+        
+        .github-stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 5px;
+            height: 100%;
+            background: var(--github-purple);
+        }
+        
+        .stat-label {
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .stat-value {
+            font-size: 2.2rem;
+            font-weight: bold;
+            font-family: 'Orbitron', sans-serif;
+            color: var(--github-purple);
+        }
+        
+        .contribution-section {
+            margin: 30px 0;
+        }
+        
+        .contribution-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .contribution-title {
+            font-size: 1.4rem;
+            color: var(--accent);
+        }
+        
+        .contribution-dates {
+            font-size: 1rem;
+            opacity: 0.8;
+        }
+        
+        .contribution-grid {
+            display: grid;
+            grid-template-columns: repeat(53, 1fr);
+            grid-template-rows: repeat(7, 1fr);
+            gap: 4px;
+            margin-top: 15px;
+        }
+        
+        .contribution-cell {
+            width: 12px;
+            height: 12px;
+            border-radius: 2px;
+            background: rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
+        }
+        
+        .contribution-cell:hover {
+            transform: scale(1.4);
+            box-shadow: 0 0 8px var(--github-green);
+        }
+        
+        .streak-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+        
+        .streak-card {
+            background: rgba(40, 30, 80, 0.7);
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid rgba(247, 92, 126, 0.3);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .streak-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(247, 92, 126, 0.3);
+        }
+        
+        .streak-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 5px;
+            height: 100%;
+            background: var(--gradient);
+        }
+        
+        .streak-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .streak-title {
+            font-size: 1.4rem;
+            color: var(--accent);
+        }
+        
+        .streak-icon {
+            font-size: 2rem;
+        }
+        
+        .streak-value {
+            font-size: 1.8rem;
+            font-weight: bold;
+            font-family: 'Orbitron', sans-serif;
+            margin: 10px 0;
+            color: var(--primary);
+        }
+        
+        .streak-dates {
+            font-size: 1.1rem;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid rgba(247, 92, 126, 0.2);
+        }
+        
         /* Contact */
         .contact-container {
             display: flex;
@@ -423,12 +604,19 @@
             100% { transform: rotate(45deg) translate(50%, 50%); opacity: 0; }
         }
         
+        @keyframes fire {
+            0% { text-shadow: 0 0 5px #ff9900; }
+            100% { text-shadow: 0 0 20px #ff3300, 0 0 30px #ff6600; }
+        }
+        
         /* Responsive */
         @media (max-width: 768px) {
             h1 { font-size: 2.5rem; }
             .typing-text { font-size: 1.8rem; }
-            .stat-card { min-width: 100%; }
+            .stat-card, .goal-card { min-width: 100%; }
             .about-content { flex-direction: column; }
+            .github-stats, .streak-container { grid-template-columns: 1fr; }
+            .contribution-grid { overflow-x: auto; padding-bottom: 20px; }
         }
     </style>
 </head>
@@ -553,6 +741,91 @@
             </div>
         </section>
 
+        <!-- GitHub Showcase Section -->
+        <section class="github-showcase">
+            <div class="github-header">
+                <div class="github-title">🚀 GitHub Showcase</div>
+                <div class="github-subtitle">Shah Ehsan's Developer Journey</div>
+            </div>
+            
+            <div class="github-stats">
+                <div class="github-stat-card">
+                    <div class="stat-label">
+                        <i class="fas fa-star"></i>
+                        Total Stars Earned
+                    </div>
+                    <div class="stat-value">1</div>
+                </div>
+                
+                <div class="github-stat-card">
+                    <div class="stat-label">
+                        <i class="fas fa-code-commit"></i>
+                        Total Commits
+                    </div>
+                    <div class="stat-value">697</div>
+                </div>
+                
+                <div class="github-stat-card">
+                    <div class="stat-label">
+                        <i class="fas fa-code-pull-request"></i>
+                        Total PRs
+                    </div>
+                    <div class="stat-value">0</div>
+                </div>
+                
+                <div class="github-stat-card">
+                    <div class="stat-label">
+                        <i class="fas fa-bug"></i>
+                        Total Issues
+                    </div>
+                    <div class="stat-value">0</div>
+                </div>
+                
+                <div class="github-stat-card">
+                    <div class="stat-label">
+                        <i class="fas fa-handshake"></i>
+                        Contributed to
+                    </div>
+                    <div class="stat-value">0</div>
+                </div>
+            </div>
+            
+            <div class="contribution-section">
+                <div class="contribution-header">
+                    <div class="contribution-title">Total Contributions</div>
+                    <div class="contribution-dates">Feb 7, 2022 - Present</div>
+                </div>
+                
+                <div class="contribution-grid" id="contribution-grid">
+                    <!-- Contribution cells will be generated by JS -->
+                </div>
+            </div>
+            
+            <div class="streak-container">
+                <div class="streak-card">
+                    <div class="streak-header">
+                        <div class="streak-title">Current Streak</div>
+                        <div class="streak-icon">
+                            <i class="fas fa-fire" style="color: #ff9900; animation: fire 1s infinite alternate;"></i>
+                        </div>
+                    </div>
+                    <div class="streak-value">Jun 15</div>
+                    <div class="streak-dates">Active development streak</div>
+                </div>
+                
+                <div class="streak-card">
+                    <div class="streak-header">
+                        <div class="streak-title">Longest Streak</div>
+                        <div class="streak-icon">
+                            <i class="fas fa-trophy" style="color: gold;"></i>
+                        </div>
+                    </div>
+                    <div class="streak-value">Oct 1, 2024 - Feb 20</div>
+                    <div class="streak-dates">Your most consistent coding period</div>
+                </div>
+            </div>
+        </section>
+
         <!-- Goals Section -->
         <section>
             <h2>🚀 Goals for 2025</h2>
@@ -605,6 +878,7 @@
                     "The only limit to our realization of tomorrow is our doubts of today."
                     <div style="margin-top: 15px; font-weight: bold;">– Franklin D. Roosevelt</div>
                 </blockquote>
+                <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Motivational GIF" width="300px" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);" />
             </div>
         </section>
     </div>
@@ -675,7 +949,39 @@
                 section.style.transform = 'translateY(0)';
             });
         });
+        
+        // Generate contribution graph
+        const contributionGrid = document.getElementById('contribution-grid');
+        const days = 53 * 7; // 53 weeks * 7 days
+        
+        // Contribution levels (0-4)
+        const getRandomLevel = () => Math.floor(Math.random() * 5);
+        
+        for (let i = 0; i < days; i++) {
+            const cell = document.createElement('div');
+            cell.classList.add('contribution-cell');
+            
+            const level = getRandomLevel();
+            switch(level) {
+                case 0:
+                    cell.style.background = 'rgba(255, 255, 255, 0.1)';
+                    break;
+                case 1:
+                    cell.style.background = 'rgba(57, 211, 83, 0.3)';
+                    break;
+                case 2:
+                    cell.style.background = 'rgba(57, 211, 83, 0.5)';
+                    break;
+                case 3:
+                    cell.style.background = 'rgba(57, 211, 83, 0.7)';
+                    break;
+                case 4:
+                    cell.style.background = 'rgba(57, 211, 83, 1)';
+                    break;
+            }
+            
+            contributionGrid.appendChild(cell);
+        }
     </script>
-    
 </body>
 </html>
