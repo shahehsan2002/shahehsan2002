@@ -1,138 +1,138 @@
+# 🌌 Welcome to My Universe 🌌
+
 <div align="center">
-  <h1 style="font-size: 3rem; color: #F75C7E; font-weight: bold;">🌌 Welcome to My Universe! 🌌</h1>
-  
-  <!-- Animated Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=500&color=F75C7E&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Ehsan+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Coding+to+Make+a+Difference+%F0%9F%8C%8D;Always+Innovating+%F0%9F%9A%80" alt="Typing SVG" />
-  
-  <div style="height: 20px"></div>
-  
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="300px" />
-  
-  <div style="height: 40px"></div>
+  <h1 style="font-size: 3rem; color: #F75C7E; font-weight: bold;">Hey There! I'm Ehsan 👋</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=F75C7E&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer+💻;AI+Automation+Expert+🤖;Zapier+%7C+n8n+%7C+LangChain+%7C+OpenAI;Building+Smart+Systems+That+Work+24/7+🚀;Turning+Manual+Work+Into+Automation+✨" />
+
+  <br/><br/>
+
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" />
 </div>
 
 ---
 
 ## ✨ About Me
-Hi, I'm **Ehsan**! 👨‍💻 A passionate **Full-Stack Developer** and **aspiring entrepreneur** who loves creating captivating and functional digital experiences.
 
-Whether it's crafting interactive UI designs or building robust backend systems, I aim to leave a mark in the tech world! 🌍
+Hi, I'm **Ehsan** 👨‍💻  
+A **Full-Stack Developer**, **AI Automation Expert**, and **aspiring entrepreneur**.
 
-- 🎨 **Why I Code:** To bring *ideas to life* through technology and design.
-- 🎯 **Mission:** Create impactful solutions with a perfect blend of aesthetics and functionality.
-- 💡 **Fun Fact:** Coding feels like magic, and I'm the wizard! 🪄
+I specialize in building **intelligent automation systems** that eliminate repetitive work, scale operations, and boost productivity using **AI + automation tools**.
+
+- 🤖 AI Automation: Zapier, n8n, OpenAI, LangChain  
+- ⚙️ Automation Philosophy: If it’s repetitive → it should be automated  
+- 🎯 Mission: Build systems that work while people sleep  
+- 🪄 Fun Fact: I turn boring workflows into smart AI agents  
 
 ---
 
-## 🚀 Skillset and Tools
+## 🚀 Tech Stack & Tools
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,nodejs,express,mongodb,tailwind,git,figma,docker,graphql" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,nodejs,express,mongodb,tailwind,git,docker,python" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Zapier-AI_Automation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-Advanced_Workflows-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-AI_Agents-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-GPT_API-black?style=for-the-badge" />
+</div>
+
+---
+
+## 🤖 AI Automation Expertise
+
+I design **end-to-end AI automation workflows** for individuals, startups, and SaaS products.
+
+### 🔹 What I Automate
+- 📝 Google Forms → AI-generated personalized emails  
+- 📩 Lead capture → Airtable / CRM  
+- 🤖 AI email writing & auto-replies  
+- 🔄 Conditional workflows (IF / Retry / Error handling)  
+- 🧠 AI Agents using LangChain  
+- 📊 Data processing & smart reporting  
+- ⚡ SaaS onboarding automation  
 
 ---
 
 ## 💻 What I Do Best
-- ✨ **Frontend Mastery:** React, Tailwind CSS, Animation, Responsiveness.
-- 🔮 **Backend Wizardry:** Node.js, Express, Mongoose, MongoDB.
-- 🎩 **Full-Stack Magic:** Bringing ideas to life from concept to deployment!
-- 🛒 **E-Commerce Expertise:** Building seamless and secure online shopping experiences.
+
+- ✨ Frontend Engineering (React, Tailwind, Animations)  
+- 🔮 Backend Development (Node.js, Express, MongoDB)  
+- 🤖 AI Automation Systems (Zapier, n8n, LangChain)  
+- 🧠 AI-powered email & workflow automation  
+- 🛒 SaaS & E-commerce solutions  
 
 ---
 
-## 🚀 GitHub Showcase
+## 🚀 Featured Automation Projects
+
+### 🔹 AI Email Automation
+- Google Form → AI-generated email  
+- Zapier / n8n + OpenAI  
+- Zero manual effort  
+
+### 🔹 Lead Management System
+- Form → Airtable → Gmail / Slack  
+- Auto-tagging & filtering  
+
+### 🔹 Smart AI Agent
+- LangChain-based decision system  
+- Context-aware responses  
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <h2>Shah Ehsan's GitHub Stats</h2>
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <table>
-          <tr>
-            <td><strong>Total Stars Earned</strong></td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td><strong>Total Commits</strong></td>
-            <td>697</td>
-          </tr>
-          <tr>
-            <td><strong>Total PRs</strong></td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td><strong>Total Issues</strong></td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td><strong>Contributed to (last year)</strong></td>
-            <td>0</td>
-          </tr>
-        </table>
-      </td>
-      <td align="center" width="50%">
-        <table>
-          <tr>
-            <td><strong>Total Contributions</strong></td>
-            <td>Feb 7, 2022 - Present</td>
-          </tr>
-          <tr>
-            <td><strong>Current Streak</strong></td>
-            <td>Jun 15</td>
-          </tr>
-          <tr>
-            <td><strong>Longest Streak</strong></td>
-            <td>Oct 1, 2024 - Feb 20</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-  
-  <div style="height: 20px"></div>
-  
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shahehsan2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahehsan2002&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
-  
-  <div style="height: 20px"></div>
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahehsan2002&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahehsan2002&theme=radical&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahehsan2002&theme=radical" width="48%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahehsan2002&theme=react-dark&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 My Achievements
+## 🏆 Achievements
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahehsan2002&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahehsan2002&theme=radical&no-frame=true&margin-w=10" />
 </div>
 
 ---
 
-## 🎯 Goals for 2025
-- 🚀 **Build** 5 full-stack projects with outstanding UI/UX.
-- 🌍 **Launch** my startup idea.
-- 🎓 **Master** DevOps and microservices architecture.
-- 🛠️ **Contribute** to open-source to give back to the community.
+## 🌐 Connect With Me
 
----
-
-## 🌐 Find Me Here
 <div align="center">
-  <a href="https://linkedin.com/in/shah-ehsan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/s_a_ehsan"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:shahehsan2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/shah-ehsan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/s_a_ehsan">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:shahehsan2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## ✍️ What Keeps Me Going?
-> "The only limit to our realization of tomorrow is our doubts of today." – **Franklin D. Roosevelt**
+## ✍️ What Drives Me
+
+> *"The future belongs to those who automate today."*
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Motivational GIF" width="300px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </div>
 
 ---
 
-<h3 align="center">💡 Pro Tip: This README is a live reflection of my journey. Keep watching it grow! 🚀</h3>
+<h3 align="center">
+💡 This README reflects my journey —  
+from <b>Full-Stack Development</b> → to <b>AI Automation</b> → to <b>Intelligent Systems</b> 🤖🚀
+</h3>
