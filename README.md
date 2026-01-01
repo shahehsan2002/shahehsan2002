@@ -17,12 +17,27 @@
 Hi, I'm **Ehsan** 👨‍💻  
 A **Full-Stack Developer**, **AI Automation Expert**, and **aspiring entrepreneur**.
 
-I specialize in building **intelligent automation systems** that eliminate repetitive work, scale operations, and boost productivity using **AI + automation tools**.
+I build **intelligent automation systems** and **scalable web applications** that reduce manual work and increase efficiency using **AI + modern web technologies**.
 
 - 🤖 AI Automation: Zapier, n8n, OpenAI, LangChain  
-- ⚙️ Automation Philosophy: If it’s repetitive → it should be automated  
-- 🎯 Mission: Build systems that work while people sleep  
-- 🪄 Fun Fact: I turn boring workflows into smart AI agents  
+- ⚙️ Automation mindset: If it’s repetitive → automate it  
+- 🎯 Mission: Build systems that work even when humans rest  
+- 🪄 Fun fact: I love turning complex logic into simple workflows  
+
+---
+
+## 🧭 My Coding Journey
+
+My journey in tech has been **step-by-step, practical, and project-driven**.
+
+- 🚀 Started with **HTML, CSS & JavaScript**, learning the foundations of the web  
+- ⚛️ Moved into **React & Tailwind CSS**, focusing on clean UI and animations  
+- 🧠 Learned **backend development** with Node.js, Express & MongoDB  
+- 🛒 Built **full-stack projects** including e-commerce, SaaS-style apps & dashboards  
+- 🤖 Discovered **AI Automation**, and started building smart workflows  
+- 🔄 Now working with **Zapier, n8n, OpenAI & LangChain** to create AI-powered systems  
+
+> 💡 Today, I focus on **automation-first thinking** — solving problems once and letting systems handle the rest.
 
 ---
 
@@ -54,7 +69,7 @@ I design **end-to-end AI automation workflows** for individuals, startups, and S
 - 🔄 Conditional workflows (IF / Retry / Error handling)  
 - 🧠 AI Agents using LangChain  
 - 📊 Data processing & smart reporting  
-- ⚡ SaaS onboarding automation  
+- ⚡ SaaS onboarding & customer communication  
 
 ---
 
@@ -124,7 +139,7 @@ I design **end-to-end AI automation workflows** for individuals, startups, and S
 
 ## ✍️ What Drives Me
 
-> *"The future belongs to those who automate today."*
+> *"Automate the boring, so humans can focus on creativity."*
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -133,6 +148,6 @@ I design **end-to-end AI automation workflows** for individuals, startups, and S
 ---
 
 <h3 align="center">
-💡 This README reflects my journey —  
-from <b>Full-Stack Development</b> → to <b>AI Automation</b> → to <b>Intelligent Systems</b> 🤖🚀
+💡 This README is a living reflection of my journey —  
+from <b>learning to code</b> → to <b>building systems</b> → to <b>AI-powered automation</b> 🤖🚀
 </h3>
