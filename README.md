@@ -1,7 +1,7 @@
 # 🌌 Welcome to My Universe 🌌
 
 <div align="center">
-  <h1 style="font-size: 3rem; color: #F75C7E; font-weight: bold;">Hey There! I'm Shah Ehsan 👋</h1>
+  <h1 style="font-size: 3rem; color: #F75C7E; font-weight: bold;">Hey There! I'm  Ehsan 👋</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=F75C7E&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer+💻;AI+Automation+Expert+🤖;Zapier+%7C+n8n+%7C+LangChain+%7C+OpenAI;Building+Smart+Systems+That+Work+24/7+🚀;Turning+Manual+Work+Into+Automation+✨" />
 
