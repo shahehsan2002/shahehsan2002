@@ -14,7 +14,7 @@
 
 ## ✨ About Me
 
-Hi, I'm **Ehsan** 👨‍💻  
+Hi, I'm **Shah Ehsan** 👨‍💻  
 A **Full-Stack Developer**, **AI Automation Expert**, and **aspiring entrepreneur**.
 
 I build **intelligent automation systems** and **scalable web applications** that reduce manual work and increase efficiency using **AI + modern web technologies**.
